@@ -1,0 +1,18 @@
+.react-responsive-modal-modal.react-responsive-modal-modalCenter {
+  width: 80%;
+  max-width:100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.react-responsive-modal-overlay {
+  background: #9C40F8!important;
+}
+
+.projectTitle {
+  font-size:28px;
+  font-weight:600;
+  color: #9C40F8;
+}

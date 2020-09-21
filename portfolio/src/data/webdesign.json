@@ -2,27 +2,113 @@
   "data":[
     {
       "id": 1,
-      "img":"testImg",
-      "description": "testDescription",
-      "projName": "Test Project",
-      "shortDescription": "this is a test project, used for the new test",
-      "projectLink": "www.google.com"
+      "thumbnail":"rootrot-thumbnail",
+      "img":"rootrot",
+      "description": "This is a MERN stack application using Redux for storage and custom JWT authentication for user sign in and profiles. Basic functionality includes user sign in and out, and registering users; adding a new plant and setting a watering schedule; displaying all plants. Future developments will be done on react native to make it a mobile only experience, and will include social logins to offload user authentication; a plant graveyard of all the dead plants; a plant API to pull in information about the plants; a weather API to track weather changes for outdoor plants.",
+      "projName": "RootRot",
+      "shortDescription": "Stop killing your plants with a plant care app",
+      "projectLink": "https://morning-sierra-31597.herokuapp.com/",
+      "githubRepo": "https://github.com/libersword/rootrot"
     },
     {
       "id": 2,
-      "img":"testImg",
-      "description": "testDescription",
-      "projName": "Test Project Dos",
-      "shortDescription": "this is a test project, used for the new test",
-      "projectLink": "www.google.com"
+      "thumbnail":"pigeonhole-thumbnail",
+      "img":"pigeonhole",
+      "description": "This is a full stack application using node and express, backed by mySQL and Sequelize ORM, and utilizing a spotify API. This was a group project, working with a small team. I was responsible for the algorithm that ranks the albums, as well as the get and post requests, file structure, routing, setting up the database with all the relationships, and linking up the front end to the backend. The concept was mine, you rank your favorite albums throughout the year, giving each category a score. It weights the scores based on how important the category is and gives the album a final score. That way you are album to rank all of your albums regardless of the genre based on the scoring you gave it. ",
+      "projName": "Pigeonhole",
+      "shortDescription": "Rank your favorite albums, see how they match up.",
+      "projectLink": "https://pigeonhole-music.herokuapp.com/",
+      "githubRepo": "https://github.com/libersword/album-ranker"
     },
     {
       "id": 3,
-      "img":"testImg",
-      "description": "testDescription",
-      "projName": "Test Project Tres",
-      "shortDescription": "this is a test project, used for the new test",
-      "projectLink": "www.google.com"
+      "thumbnail":"shows-thumbnail",
+      "img":"shows-in-denver",
+      "description": "Find shows in denver!",
+      "projName": "Shows in Denver",
+      "shortDescription": "Find show near you in denver",
+      "projectLink": "https://libersword.github.io/shows-in-denver/#",
+      "githubRepo": "https://github.com/libersword/shows-in-denver"
+    },
+    {
+      "id": 4,
+      "thumbnail":"weather-thumbnail",
+      "img":"weather-app",
+      "description": "Get the weather!",
+      "projName": "Weather App",
+      "shortDescription": "Simple Weather App",
+      "projectLink": "https://libersword.github.io/weather-app/",
+      "githubRepo": "https://github.com/libersword/weather-app"
+    },
+    {
+      "id": 5,
+      "thumbnail":"day-planner-thumbnail",
+      "img":"day-planner",
+      "description": "Plan your day!",
+      "projName": "Day Planner",
+      "shortDescription": "Day Planner",
+      "projectLink": "https://libersword.github.io/day-planner/",
+      "githubRepo": "https://github.com/libersword/day-planner"
+    },
+    {
+      "id": 6,
+      "thumbnail":"budget-thumbnail",
+      "img":"budget-tracker",
+      "description": "This is a simple progressive web application, using mongodb and downloadable to your desktop or phone using the web manifest.",
+      "projName": "Budget App",
+      "shortDescription": "A simple PWA budget application.",
+      "projectLink": "https://fathomless-meadow-98092.herokuapp.com/",
+      "githubRepo": "https://github.com/libersword/budget-app"
+    },
+    {
+      "id": 7,
+      "thumbnail":"fitness-thumbnail",
+      "img":"fitness-tracker",
+      "description": "This is a simple fitness tracker application using mongodb. Set up with models, asynchronous requests, and express routes.",
+      "projName": "Fitness Tracker",
+      "shortDescription": "A simple fitness tracking application.",
+      "projectLink": "https://gentle-crag-87426.herokuapp.com/",
+      "githubRepo": "https://github.com/libersword/fitnessTracker/"
+    },
+    {
+      "id": 8,
+      "thumbnail":"note-thumbnail",
+      "img":"note-taker",
+      "description": "This is a simple note taking application using express simply writing to a json file. This application uses get, post, and delete requests to write and delete from an array to a json file.",
+      "projName": "Note Taker",
+      "shortDescription": " A simple note taking application.",
+      "projectLink": "https://rocky-caverns-96717.herokuapp.com/",
+      "githubRepo": "https://github.com/libersword/note-taker/"
+    },
+    {
+      "id": 9,
+      "thumbnail":"profile-thumbnail",
+      "img":"profile-generator",
+      "description": "This application is an inquirer application that takes in a github username and generates a PDF profile of the information gathered there.",
+      "projName": "Profile Generator",
+      "shortDescription": " Generate a profile from a github profile.",
+      "projectLink": "https://drive.google.com/file/d/1ZhwIUynanN6dhuI35k2dKYX3cqmnQL5R/view",
+      "githubRepo": "https://github.com/libersword/profile-generator"
+    },
+    {
+      "id": 10,
+      "thumbnail":"password-thumbnail",
+      "img":"password",
+      "description": "Generate a secure password based on chosen parameters. Made with a simple script and check boxes to add parameters and characters to the password if true.",
+      "projName": "Password Generator",
+      "shortDescription": "Generate a secure password based on chosen parameters.",
+      "projectLink": "https://libersword.github.io/password-generator/",
+      "githubRepo": "https://github.com/libersword/password-generator"
+    },
+    {
+      "id": 11,
+      "thumbnail":"code-quiz-thumbnail",
+      "img":"code-quiz",
+      "description": "This is a simple quiz that pulls questions, checks the answer and removes time if incorrect. It stores the scores in local storage.",
+      "projName": "Code Quiz",
+      "shortDescription": "Take a code quiz to test your chops!",
+      "projectLink": "https://libersword.github.io/code-quiz/index.html",
+      "githubRepo": "https://github.com/libersword/code-quiz"
     }
   ]
 }

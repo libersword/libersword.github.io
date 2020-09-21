@@ -1,18 +1,20 @@
 import React from "react";
 import "./style.css";
 
+
 const WebProject = props => {
   return(
 <div className="projectWrapper">
   <div className="projectHeader">
-  <img src={`${process.env.PUBLIC_URL}/webProjects/${props.img}.jpg`} alt={props.description} />
+  <img src={`${process.env.PUBLIC_URL}/webProjects/${props.thumbnail}.png`} alt='test desc'/>
+  {/* <img src={`${process.env.PUBLIC_URL}/webProjects/${props.img}.jpg`} alt={props.description} /> */}
   </div>
 <div className="projectBody">
-  <p>{props.projName}</p>
+  <h3 className="projectTitle">{props.projName}</h3>
   <p>{props.shortDescription}</p>
-  <a href={`${props.projectLink}`}>Read More</a>
 </div>
 </div>
+
   )
 }
 

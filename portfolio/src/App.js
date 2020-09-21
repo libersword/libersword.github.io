@@ -8,7 +8,9 @@ function App() {
   return (
     <div className="App">
       <SideNav />
-      
+      <div className="easterEgg">
+        <p>Who puts their browser this small lol</p>
+      </div>
 
      
     </div> // END OF APP //

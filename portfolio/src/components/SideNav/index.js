@@ -11,7 +11,8 @@ import AllWeb from '../WebProjectsAll'
 import AllGD from '../GDProjectsAll'
 import AllIllustration from '../IllustrationAll'
 import AllPhotography from '../PhotographyAll'
-import Contact from '../Contact'
+import Contact from '../Contact';
+import './style.css'
 
 const routes = [
   {
@@ -49,8 +50,8 @@ export default function SideNav(){
     return(
     <Router>
       <div>
-        <div>
-          <ul>
+        <div className="sidenav">
+          <ul className="navlinks">
             <li>
               <Link to="/">Home</Link>
             </li>
