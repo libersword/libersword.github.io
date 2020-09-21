@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lindseys.work/static/css/main.a1b0e1ca.chunk.css",
+    "main.js": "/lindseys.work/static/js/main.61902fbe.chunk.js",
+    "main.js.map": "/lindseys.work/static/js/main.61902fbe.chunk.js.map",
+    "runtime-main.js": "/lindseys.work/static/js/runtime-main.5ce7c1dd.js",
+    "runtime-main.js.map": "/lindseys.work/static/js/runtime-main.5ce7c1dd.js.map",
+    "static/css/2.257f4af1.chunk.css": "/lindseys.work/static/css/2.257f4af1.chunk.css",
+    "static/js/2.1a016312.chunk.js": "/lindseys.work/static/js/2.1a016312.chunk.js",
+    "static/js/2.1a016312.chunk.js.map": "/lindseys.work/static/js/2.1a016312.chunk.js.map",
+    "index.html": "/lindseys.work/index.html",
+    "precache-manifest.b52ddb2b0c6be41d49e918fd62af2bc6.js": "/lindseys.work/precache-manifest.b52ddb2b0c6be41d49e918fd62af2bc6.js",
+    "service-worker.js": "/lindseys.work/service-worker.js",
+    "static/css/2.257f4af1.chunk.css.map": "/lindseys.work/static/css/2.257f4af1.chunk.css.map",
+    "static/css/main.a1b0e1ca.chunk.css.map": "/lindseys.work/static/css/main.a1b0e1ca.chunk.css.map",
+    "static/js/2.1a016312.chunk.js.LICENSE.txt": "/lindseys.work/static/js/2.1a016312.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ce7c1dd.js",
+    "static/css/2.257f4af1.chunk.css",
+    "static/js/2.1a016312.chunk.js",
+    "static/css/main.a1b0e1ca.chunk.css",
+    "static/js/main.61902fbe.chunk.js"
+  ]
+}
