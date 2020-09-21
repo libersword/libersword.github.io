@@ -69,12 +69,14 @@ class AllPhotography extends React.Component {
     return (
       <div>
         <div className="projectsWrapper">
-          {this.renderProjects()}
+
+      <h2>Photograph Projects Coming Soon</h2>
+          {/* {this.renderProjects()} */}
         </div>
-        <Modal/>
+        {/* <Modal/>
         <Modal className = "projectsModal" open={open} onClose={this.onCloseModal} center>
           <div>{this.renderModal()}</div>
-        </Modal>
+        </Modal> */}
       </div>
     );
   }

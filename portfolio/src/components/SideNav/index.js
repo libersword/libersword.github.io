@@ -59,9 +59,9 @@ export default function SideNav(){
               <Link to="/about">About</Link>
             </li>
             <li>
-              <Link to="/web">Web</Link>
+              <Link to="/web">Web Work</Link>
             </li>
-            <li>
+            {/* <li>
               <Link to="/graphic-design">Graphic Design</Link>
             </li>
             <li>
@@ -69,7 +69,7 @@ export default function SideNav(){
             </li>
             <li>
               <Link to="/photography">Photography</Link>
-            </li>
+            </li> */}
             <li>
               <Link to="/contact">Contact</Link>
             </li>

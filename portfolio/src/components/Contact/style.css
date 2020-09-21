@@ -1,0 +1,9 @@
+.contact-page {
+  flex-direction:column;
+}
+
+.contact-page a {
+  color:#9C40F8;
+  text-decoration:none;
+  font-weight:600;
+}
