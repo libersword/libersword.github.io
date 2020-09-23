@@ -58,8 +58,13 @@ renderModal = () => {
     return (
       <div>
         <h1 className = "projectTitle">{project.projName}</h1>
-        <img className = "projectImg" src={project.img} alt="Full size alt"/>
+        <img className = "projectImg" src={project.img} 
+        alt="Full size alt" onerror="this.style.display='none'"/>
+        <img className = "projectImg" src={project.secondimg} alt="Full size alt" onerror="this.style.display='none'"/>
+        <img className = "projectImg" src={project.thirdimg} alt="Full size alt" onerror="this.style.display='none'"/>
+        <img className = "projectImg" src={project.fourthimg} alt="Full size alt" onerror="this.style.display='none'"/>
         <p className = "projectDescription">{project.description}</p>
+        <p className = "techUsed">{project.techUsed}</p>
       </div>
     );
   }
@@ -70,13 +75,13 @@ render() {
   return (
     <div>
       <div className="projectsWrapper">
-      <h2>Graphic Design Projects Coming Soon</h2>
-        {/* {this.renderProjects()} */}
+      {/* <h2>Graphic Design Projects Coming Soon</h2> */}
+        {this.renderProjects()}
       </div>
-      {/* <Modal/>
+      <Modal/>
       <Modal className = "projectsModal" open={open} onClose={this.onCloseModal} center>
         <div>{this.renderModal()}</div>
-      </Modal> */}
+      </Modal>
     </div>
   );
 }

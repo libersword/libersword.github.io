@@ -22,3 +22,9 @@
     padding-left: 30px;
 
 }
+
+@media only screen and (max-width: 415px) {
+  .welcome {
+    font-size:72px;
+  }
+}

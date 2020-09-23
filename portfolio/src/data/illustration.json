@@ -2,30 +2,35 @@
   "data":[
     {
       "id": 1,
-      "thumbnail":"illustration thumbnail",
-      "img":"illustration testImg",
-      "description": "illustration testDescription",
-      "projName": "illustration Test Project",
-      "shortDescription": "this is a illustration test project, used for the new illustration test",
-      "projectLink": "www.google.com"
+      "thumbnail":"poster-thumbnail",
+      "img":"gigPoster",
+      "description": "Hand drawn poster made with copic markers",
+      "projName": "Gig Poster",
+      "shortDescription": "Copic Marker gig poster"
     },
     {
       "id": 2,
-      "thumbnail":"illustration thumbnail",
-      "img":"illustration testImg",
-      "description": "illustration testDescription",
-      "projName": "illustration Test Project Dos",
-      "shortDescription": "this is a illustration test project, used for the new illustration test",
-      "projectLink": "www.google.com"
+      "thumbnail":"movie-thumbnail",
+      "img":"horrorposter",
+      "description": "Hand drawn poster for a movie night. Made with colored pencils and graphite.",
+      "projName": "Horror Movie Night",
+      "shortDescription": "Movie night poster"
     },
     {
       "id": 3,
-      "thumbnail":"illustration thumbnail",
-      "img":"illustration testImg",
-      "description": "illustration testDescription",
-      "projName": "illustration Test Project Tres",
-      "shortDescription": "this is a illustration test project, used for the new illustration test",
-      "projectLink": "www.google.com"
+      "thumbnail":"explorica-thumbnail",
+      "img":"explorica",
+      "description": "Hand drawn illustration with typography. Poster advertising a education art trip for Colorado Mesa University students. Hand drawn linework, colored digitally, and typography work done in illustrator.",
+      "projName": "Explorica",
+      "shortDescription": "Explorica Advertisement Poster"
+    },
+    {
+      "id": 4,
+      "thumbnail":"relapse-thumbnail",
+      "img":"relapse",
+      "description": "A hand drawn poster for a mock experiential marketing campaign for a record label.",
+      "projName": "Relapse Mock Poster",
+      "shortDescription": "Mock experiential marketing campaign poster"
     }
   ]
 }

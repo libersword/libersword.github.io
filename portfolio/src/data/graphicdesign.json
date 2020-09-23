@@ -2,30 +2,75 @@
   "data":[
     {
       "id": 1,
-      "thumbnail":"graphic design thumbnail",
-      "img":"graphic design testImg",
-      "description": "graphic design testDescription",
-      "projName": "graphic design Test Project",
-      "shortDescription": "this is a graphic design test project, used for the new graphic design test",
-      "projectLink": "www.google.com"
+      "projName": "Drumnow UX/UI",
+      "thumbnail":"dn-thumbnail",
+      "img":"dn-home",
+      "secondimg":"dn-style",
+      "thirdimg":"dn-thumbnail",
+      "shortDescription": "UX/UI for a drum-track web app.",
+      "description": "I worked with developers to create a user experience flow and interface for the web app they are creating for downloading, uploading, and recording drum tracks. My scope of work was viewing user case files and coming up with the best solutions for users to experience the app, designing the front end in a prototyping software (XD) and creating a usable style guide for developers to follow while building out the application. Everything started first as a sketch and was discussed with the team, then moved forward digital and into a working prototype.",
+      "techUsed": "Sketches, Adobe XD"
     },
     {
       "id": 2,
-      "thumbnail":"graphic design thumbnail",
-      "img":"graphic design testImg",
-      "description": "graphic design testDescription",
-      "projName": "graphic design Test Project Dos",
-      "shortDescription": "this is a graphic design test project, used for the new graphic design test",
-      "projectLink": "www.google.com"
+      "projName": "Aeropress Ads",
+      "thumbnail":"ad-thumbnail",
+      "img":"ad",
+      "shortDescription": "Ad design mock for aeropress coffee.",
+      "description": "A mock ad for aeropress coffee, feature illustration and typography.",
+      "techUsed": " Illustrator, Photoshop, traditional media"
     },
     {
       "id": 3,
-      "thumbnail":"graphic design thumbnail",
-      "img":"graphic design testImg",
-      "description": "graphic design testDescription",
-      "projName": "graphic design Test Project Tres",
-      "shortDescription": "this is a graphic design test project, used for the new graphic design test",
-      "projectLink": "www.google.com"
+      "projName": "Brochure designs",
+      "thumbnail":"brochure-thumbnail",
+      "img":"brochure1",
+      "secondimg":"brochure2",
+      "shortDescription": "Designs for two brochures made at Melinda McCaw Media.",
+      "description": "Two brochures made at Melinda McCaw Media. One for a construction company, another for a religious school for kids. Both deal with a lot of typography so layout and readability were a priority, as well as aesthetics.",
+      "techUsed": "Illustrator, Photoshop, InDesign"
+    },
+    {
+      "id": 4,
+      "projName": "BuildGJ",
+      "thumbnail":"buildgj-thumbnail",
+      "img":"buildgj-page",
+      "secondimg":"buildgj-graphic",
+      "shortDescription": "WordPress Site and Assets for BuildGJ Construction Company",
+      "description": "A simple WordPress site made with the Divi Theme. Included hand drawn and vectored assets such as plot maps and build timelines. ",
+      "techUsed": " Illustrator, WordPress (Divi)"
+    },
+    {
+      "id": 5,
+      "projName": "Logo Design",
+      "thumbnail":"logo-thumbnail",
+      "img":"standardsmanual",
+      "secondimg":"logo2-quickStart",
+      "thirdimg":"logo3-rocketReviews",
+      "shortDescription": "Various logo designs",
+      "description": "Three logo designs, two were for Elevation Digital Marketing subcompanies so the branding had to tie in with the existing brand. The third was a fake company for logo design practice. I created with it a brand style guide outlining the uses of the logo and all of the requirements and restrictions.",
+      "techUsed": " Illustrator"
+    },
+    {
+      "id": 6,
+      "projName": "Mesa Motorsports Web Design Concept",
+      "thumbnail":"mm-thumbnail",
+      "img":"mm-desktop",
+      "secondimg":"mm-mobile",
+      "shortDescription": "A concept for mesa motorsports website",
+      "description": "I created a concept for a student fsae team at Colorado Mesa University for a project in user experience. ",
+      "techUsed": "Illustrator, Adobe XD"
+    },
+    {
+      "id": 7,
+      "projName": "Melinda McCaw Media Ad Concepts",
+      "thumbnail":"mmm-ad-thumbnail",
+      "img":"mmm-ad1",
+      "secondimg":"mmm-ad2",
+      "thirdimg":"mmm-ad3",
+      "shortDescription": "A series of ads for Melinda McCaw Media to run on facebook ",
+      "description": "I created a series of ads for Melinda McCaw Media to run on social media platforms. My scope of work was to come up with an engaging concept, execute it, and mock them up to pitch for an ad campaign. ",
+      "techUsed": "Illustrator, Photoshop"
     }
   ]
 }

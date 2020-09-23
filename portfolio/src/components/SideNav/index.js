@@ -61,13 +61,13 @@ export default function SideNav(){
             <li>
               <Link to="/web">Web Work</Link>
             </li>
-            {/* <li>
+            <li>
               <Link to="/graphic-design">Graphic Design</Link>
             </li>
             <li>
               <Link to="/illustration">Illustration</Link>
             </li>
-            <li>
+            {/* <li>
               <Link to="/photography">Photography</Link>
             </li> */}
             <li>

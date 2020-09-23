@@ -6,7 +6,7 @@ const WebProject = props => {
   return(
 <div className="projectWrapper">
   <div className="projectHeader">
-  <img src={`${process.env.PUBLIC_URL}/webProjects/${props.thumbnail}.png`} alt='test desc'/>
+  <img src={`libersword.github.io/webProjects/${props.thumbnail}.png`} alt='test desc'/>
   {/* <img src={`${process.env.PUBLIC_URL}/webProjects/${props.img}.jpg`} alt={props.description} /> */}
   </div>
 <div className="projectBody">
