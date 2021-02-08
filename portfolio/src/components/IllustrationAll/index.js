@@ -40,7 +40,7 @@ renderProjects = () => {
         onClick={() => this.onOpenModal(i)}
       >
         <IllustrationProject
-          img={work.thumbnail}
+          thumbnail={work.thumbnail}
           description={work.description}
           projName={work.projName}
           shortDescription={work.shortDescription}
@@ -57,7 +57,7 @@ renderModal = () => {
     return (
       <div>
         <h1 className = "projectTitle">{project.projName}</h1>
-        <img className = "projectImg" src={project.img} alt="test alt"/>
+        <img className = "projectImg" src={`${process.env.PUBLIC_URL}/illustrationProjects/${project.img}.png`}  alt="test alt"/>
         <p className = "projectDescription">{project.description}</p>
       </div>
     );

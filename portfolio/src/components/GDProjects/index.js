@@ -4,7 +4,7 @@ const GDProject = props => {
   return(
 <div className="projectWrapper">
   <div className="projectHeader">
-  <img src={`libersword.github.io/graphicDesignProjects/${props.thumbnail}.jpg`} alt='test desc'/>
+  <img src={`libersword.github.io/graphicDesignProjects/${props.thumbnail}.png`} alt='test desc'/>
   </div>
 <div className="projectBody">
   <h3 className="projectTitle">{props.projName}</h3>

@@ -1,6 +1,16 @@
 {
   "data":[
     {
+      "id": 0,
+      "thumbnail":"pharmacalogo",
+      "img":"pharmaca-homepage",
+      "description": "I am the web developer at pharmaca.com. I build access, responsive and cross-device compatible pages with HTML, CSS, and JS on a Magento platform. Some of my biggest accomplishments at Pharmaca has been designing mobile friendly pages, redesigning the header for better UX, designing a fluid homepage for user experience on desktop and mobile, increasing mobile CVR by implementing crucial mobile design facets, and converted main banners into using live HTML and alt tags for ADA compliance. I've also designed responsive and functional email campaigns, impletemented tags with Google Tag Manger, optimized the site an identified improvements for faster site speed, as well as third party integrations and upgrades.",
+      "projName": "Pharmaca.com",
+      "shortDescription": "Health and Wellness Ecommerce Site",
+      "projectLink": "https://www.pharmaca.com",
+      "githubRepo": ""
+    },
+    {
       "id": 1,
       "thumbnail":"rootrot-thumbnail",
       "img":"rootrot",
